@@ -54,7 +54,7 @@ describe Person do
 	end
 end
 
-# WRite outline first:
+# Write outline first:
 describe Person do
 	context "when a name is provided" do
 
